@@ -1,4 +1,4 @@
-# data_chatbot.py - شات ذكي للاستعلام عن البيانات
+
 import streamlit as st
 import pandas as pd
 import numpy as np
